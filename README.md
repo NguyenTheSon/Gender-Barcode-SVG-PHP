@@ -1,1 +1,6 @@
-Gender-Barcode-SVG-PHP
+PHP-SVG-Barcode
+===============
+
+Php Library for Generating SVG Barcode 
+
+
